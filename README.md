@@ -42,3 +42,6 @@ This project is a simple full-stack web application using HTML, CSS, JavaScript,
 - Data will appear in the table below.
 - Click Toggle to switch the status between 0 and 1.
 ---
+
+![Image](https://github.com/user-attachments/assets/a77fc508-088d-46d8-8322-3c8d38149506)
+
